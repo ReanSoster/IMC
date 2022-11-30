@@ -1,4 +1,4 @@
-//alert('Seja Bem-vindo ao meu protótipo de java com demais aplicações.')
+alert('Seja Bem-vindo ao meu protótipo de java com demais aplicações.')
 
 const form = document.querySelector('#formulario');
 
